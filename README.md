@@ -9,3 +9,12 @@ A program made in Java with several dices to play RPG. Contains D2, D3, D4, D6, 
 ![image](https://github.com/user-attachments/assets/17495ddf-ea67-4c5c-9b85-a1dd8e09bf45)
 
 
+## Try On!
+
+You can download the game here and run it on your computer. No need to install the game if you have Java in your pc:
+
+### Jar File
+https://github.com/nathaliarmolina/JavaRPGDice/blob/main/JavaRPGDice.jar
+
+## Download Java
+https://www.java.com/pt-BR/download/manual.jsp
