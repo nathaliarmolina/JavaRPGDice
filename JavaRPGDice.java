@@ -37,6 +37,7 @@ public class JavaRPGDice implements ActionListener{
 		frame.setSize(500, 450);  // set size
 		frame.setLocationRelativeTo(null); // centralize window
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // close program 
+		frame.setResizable(false); // disable frame resize
 		frame.setLayout(null); // no layout mode
 		
 		panel = new JPanel(); // create JPanel
